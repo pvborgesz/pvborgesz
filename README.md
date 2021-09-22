@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Paulo Victor
 
-- 🔭 Hoje trabalho com front-end
+- 🎓 Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)
 - 🌱 Estou estudando React e MySQL
 - 📫 Contate-me no email: pvbo.lima@discente.ufma.br
 
