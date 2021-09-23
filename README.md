@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Paulo Victor
 
 - 🎓 Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)
-- 🌱 Estou estudando React
 - 📫 Contate-me no email: pvbo.lima@discente.ufma.br
 
  <div>
