@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo Victor
+### Olá, eu sou o Paulo Victor!
 
 - 🎓 Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)
 - 📫 Contate-me no email: pvbo.lima@discente.ufma.br
