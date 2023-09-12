@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, eu sou o Paulo Victor!<br>Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)<br>Contate-me no email: pvbo.lima@discente.ufma.br
+I am a seasoned Fullstack Developer with extensive expertise in TypeScript technologies, including React and Node. I hold a bachelor's degree in Computer Science from the Universidade Federal do Maranhão (UFMA) and am currently working towards a master's degree in Computer Science at the Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 
 
 ## 🌐 Socials:
